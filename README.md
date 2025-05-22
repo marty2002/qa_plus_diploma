@@ -9,3 +9,8 @@
 1. Для запуска тестов необходимо указать андрес тестового стенда в переменной
    `URL_SERVICE` в файле `configuration.py`
 2. Для закуска тестов необходимо установить пакеты `pytest` и `requests`
+3. Запросы по заданию 1 расположены в файле `sql/main.sql`.
+4. Скриншоты запуска запросов расположены в файлах `screenshots/main_sql_result_1.png`
+   и `screenshots/main_sql_result_2.png`
+5. Тест по заданию 2 описан в файле `create_order_test.py`
+6. Скриншот запуска теста расположен в файле `screenshots/test_run_screen.png`
