@@ -1,5 +1,5 @@
 # URL-адрес тестового стенда сервера Ez-scooter
-URL_SERVICE = "https://ec79ca2a-6e01-4616-be3b-840be9e314ef.serverhub.praktikum-services.ru"
+URL_SERVICE = "https://45dcdab6-7e45-4f06-afde-3cec41380166.serverhub.praktikum-services.ru"
 
 # CREATE_ORDER_PATH путь к API-методу для создания заказа.
 CREATE_ORDER_PATH = "/api/v1/orders"
